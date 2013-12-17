@@ -34,7 +34,6 @@ public class Nodo {
 	}
 	
 	/**
-	 * ã‚¨ãƒƒã‚¸ã�®ã‚³ã‚¹ãƒˆã‚’ä¸Šæ›¸ã��ã�™ã‚‹
 	 * @param to
 	 * @param renewCost
 	 */
